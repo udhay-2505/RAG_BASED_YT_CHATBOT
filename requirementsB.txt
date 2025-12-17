@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+requests
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+python-dotenv
+yt-dlp
